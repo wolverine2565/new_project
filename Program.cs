@@ -1,6 +1,9 @@
-﻿using (StreamWriter writer = File.CreateText("Friends.txt"))
+﻿using (StreamReader reader1 = File.OpenText("Friends.txt"))
 {
-    writer.WriteLine("Вася");
-    writer.WriteLine("Маша");
-    writer.WriteLine("Ира");
+    string s = null;
+    while ((s = reader1.ReadLine()) != null)
+    {
+        Console.WriteLine(s);
+    }
+   
 }
