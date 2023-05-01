@@ -1,0 +1,15 @@
+/Users/nikolaydanyuk/new_project-1/obj/Debug/net7.0/new_project-1.csproj.AssemblyReference.cache
+/Users/nikolaydanyuk/new_project-1/obj/Debug/net7.0/new_project-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaydanyuk/new_project-1/obj/Debug/net7.0/new_project-1.AssemblyInfoInputs.cache
+/Users/nikolaydanyuk/new_project-1/obj/Debug/net7.0/new_project-1.AssemblyInfo.cs
+/Users/nikolaydanyuk/new_project-1/obj/Debug/net7.0/new_project-1.csproj.CoreCompileInputs.cache
+/Users/nikolaydanyuk/new_project-1/bin/Debug/net7.0/new_project-1
+/Users/nikolaydanyuk/new_project-1/bin/Debug/net7.0/new_project-1.deps.json
+/Users/nikolaydanyuk/new_project-1/bin/Debug/net7.0/new_project-1.runtimeconfig.json
+/Users/nikolaydanyuk/new_project-1/bin/Debug/net7.0/new_project-1.dll
+/Users/nikolaydanyuk/new_project-1/bin/Debug/net7.0/new_project-1.pdb
+/Users/nikolaydanyuk/new_project-1/obj/Debug/net7.0/new_project-1.dll
+/Users/nikolaydanyuk/new_project-1/obj/Debug/net7.0/refint/new_project-1.dll
+/Users/nikolaydanyuk/new_project-1/obj/Debug/net7.0/new_project-1.pdb
+/Users/nikolaydanyuk/new_project-1/obj/Debug/net7.0/new_project-1.genruntimeconfig.cache
+/Users/nikolaydanyuk/new_project-1/obj/Debug/net7.0/ref/new_project-1.dll
